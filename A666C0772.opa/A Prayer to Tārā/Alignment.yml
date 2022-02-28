@@ -1,0 +1,19 @@
+segment_sources:
+  P9DFFA61A:
+    type: origin_type
+    relation: translation
+    language: en
+  P660CE4D0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a6b77d59f2a04e39a9e27f973d3fb49b:
+    P9DFFA61A: 34d6763d453f4bcf9e73cb80dae283b7
+    P660CE4D0: b620f35a6bb04eab9544a0a0bd0ad352
+  e07d35d20795456190b100d52f9c2a92:
+    P9DFFA61A: b43fd71cd9324969986249dbf16f6a38
+    P660CE4D0: 6612520b35094ddb855ef77aef36b473
+  04d65e04dda542dbbc66e0f24a135b2e:
+    P9DFFA61A: 7cd2734860d74d3c897698b62ecb1180
+    P660CE4D0: fafc95df81b24e14bfbd57e0ead038ea
